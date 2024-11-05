@@ -1,0 +1,228 @@
+A low-sugar diet in utero and in the first two years of life can meaningfully reduce the risk of chronic diseases in adulthood, a new study has found, providing compelling new evidence of the lifelong health effects of early-life sugar consumption.
+
+Published in Science, the study finds that children who experienced sugar restrictions during their first 1,000 days after conception had up to 35% lower risk of developing Type 2 diabetes and as much as 20% less risk of hypertension as adults. Low sugar intake by the mother prior to birth was enough to lower risks, but continued sugar restriction after birth increased the benefits.
+
+Taking advantage of an unintended "natural experiment" from World War II, researchers at the USC Dornsife College of Letters, Arts and Sciences, McGill University in Montreal, and the University of California, Berkeley, examined how sugar rationing during the war influenced long-term health outcomes.
+
+The United Kingdom introduced limits on sugar distribution in 1942 as part of its wartime food rationing program. Rationing ended in September 1953.
+
+The researchers used contemporary data from the U.K. Biobank, a database of medical histories and genetic, lifestyle and other disease risk factors, to study the effect of those early-life sugar restrictions on health outcomes of adults conceived in the U.K. just before and after the end of wartime sugar rationing.
+
+"Studying the long-term effects of added sugar on health is challenging," says study corresponding author Tadeja Gracner, senior economist at the USC Dornsife Center for Economic and Social Research. "It is hard to find situations where people are randomly exposed to different nutritional environments early in life and follow them for 50 to 60 years. The end of rationing provided us with a novel natural experiment to overcome these problems."
+
+Sugar intake during rationing was about 8 teaspoons (40 grams) per day on average. When rationing ended, sugar and sweets consumption skyrocketed to about 16 teaspoons (80 grams) per day.
+
+Notably, rationing did not involve extreme food deprivation overall. Diets generally appeared to have been, in fact, within today's guidelines set by the U.S. Department of Agriculture and the World Health Organization, which recommend no added sugars for children under two and not more than 12 teaspoons (50g) of added sugar daily for adults.
+
+The immediate and large increase in sugar consumption but no other foods after rationing ended created an interesting natural experiment: Individuals were exposed to varying levels of sugar intake early in life, depending on whether they were conceived or born before or after September 1953. Those conceived or born just before the end of rationing experienced sugar-scarce conditions compared to those born just after who were born into a more sugar-rich environment.
+
+The researchers then identified those born around this time in the U.K. Biobank data collected over 50 years later. Using a very tight birth window around the end of sugar rationing allowed the authors to compare midlife health outcomes of otherwise similar birth cohorts.
+
+While living through the period of sugar restriction during the first 1,000 days of life substantially lowered the risk of developing diabetes and hypertension, for those who were later diagnosed with either of those conditions, onset of disease was delayed by four years and two years, respectively.
+
+Notably, exposure to sugar restrictions in utero alone was enough to lower risks, but disease protection increased postnatally once solids were likely introduced.
+
+The magnitude of this effect is meaningful as it can save costs, extend life expectancy and, perhaps more importantly, quality of life, say the researchers.
+
+In the United States, people with diabetes incur annual medical expenditures of about $12,000 on average. Further, earlier diagnosis of diabetes means significantly shorter life expectancy, with every decade earlier that a diagnosis of diabetes is made cutting three to four years off of life expectancy.
+
+These numbers underscore the value of early interventions that could delay or prevent this disease, the researchers note.
+
+Experts' concerns about children's long-term health as they consume excessive amounts of added sugars during their early life, a critical period of development, continue to mount. Adjusting child sugar consumption, however, is not easy -- added sugar is everywhere, even in baby and toddler foods, and children are bombarded with TV ads for sugary snacks, say the researchers.
+
+"Parents need information about what works, and this study provides some of the first causal evidence that reducing added sugar early in life is a powerful step towards improving children's health over their lifetimes," says study co-author Claire Boone of McGill University and the University of Chicago.
+
+Co-author Paul Gertler of UC Berkeley and the National Bureau of Economics Research adds: "Sugar early in life is the new tobacco, and we should treat it as such by holding food companies accountable to reformulate baby foods with healthier options and regulate the marketing and tax sugary foods targeted at kids."
+
+This study is the first of a larger research effort exploring how early-life sugar restrictions affected a broader set of economic and health outcomes in later adulthood, including education, wealth, and chronic inflammation, cognitive function and dementia.
+
+
+
+From the wide variety of sodas, candies and baked goods that are sold worldwide, it's clear that people love their sweet treats. But consuming too much white table sugar or artificial sweetener can lead to health issues. In the search for a better sweetener, researchers in ACS' Journal of Agricultural and Food Chemistry now report a low-calorie mixture that is as sweet as table sugar and, in lab experiments, feeds "good" gut microbes.
+
+Artificial sweeteners have exploded in popularity because they let people consume sweets without the calories. However, while they're considered safe for human consumption, studies in animals and humans suggest that some of them can stimulate appetite, leading to increased food consumption and weight gain, as well as other negative health outcomes. So, researchers have been turning to the study of low-calorie or extremely sweet substances from natural sources as possible replacements. For example, galactooligosaccharides -- found in mammalian milk -- are low-calorie sugars with prebiotic activity that can be a source of energy for beneficial gut microbes, but they're not quite sweet enough to replace table sugar. Alternatively, extracts from the luo han guo fruit contain mogrosides -- compounds 200 to 300 times sweeter than table sugar. But these extracts sometimes have off-flavors, which can be removed with enzymes. So, F. Javier Moreno and colleagues wanted to take advantage of the best aspects of both natural substances, using enzymes to modify mogrosides while simultaneously producing galactooligosaccharides for a brand-new low-calorie sweetener.
+
+The researchers started with lactose and mogroside V (the primary mogrosidein luo han guo fruit). When they added β-galactosidase enzymes, the researchers obtained a mixture that contained mostly galactooligosaccharides and a small amount of modified mogrosides. A trained sensory panel reported that the new combination had a sweetness similar to that of sucrose (table sugar), suggesting it could be acceptable to consumers. In test tube experiments, the new sweetener increased the levels of multiple human gut microbes that are beneficial, including Bifidobacterium and Lactobacillus bacterial species. In addition, increases in bacteria-produced metabolites, such as acetate, propionate and butyrate, indicated that the mixture could potentially have a prebiotic effect on the gut microbiome. The researchers say that the new sweetener holds promise in these initial analyses, and their next step is to more closely study the substance's impact on human gut health.
+
+The authors acknowledge funding from Optibiotix Health Plc (York, U.K.), the Spanish Ministry of Science, Innovation and Universities, and the European Union's Horizon 2020 research and innovation program. One of the study's authors is employed by Optibiotix Health Plc.
+
+
+
+Microplastics have been steadily increasing in freshwater environments for decades and are directly tied to rising global plastic production since the 1950s, according to a new study by an interdisciplinary team of Penn State researchers. The findings provide insight into how microplastics move and spread in freshwater environments, which could be important for creating long-term solutions to reduce pollution, the researchers said.
+
+The work is available online now and will be published in the December issue of Science of the Total Environment.
+
+"Few studies examine how microplastics change over time," said Nathaniel Warner, associate professor of civil and environmental engineering and the corresponding author on the paper. "Ours is one of the first to track microplastic levels in freshwater sediment from before the 1950s to today, showing that concentrations rise in line with plastic production."
+
+Microplastics are tiny plastic particles that range in size from one micrometer, or 1/100 of the width of a human hair, to five millimeters, which is about the size of a pencil eraser. They can come from larger plastics that break down into smaller pieces or be made directly by manufacturers. For this study, the team examined freshwater sediment cores from four watersheds in Pennsylvania: Kiskiminetas River, Blacklick Creek, Raystown Lake and Darby Creek.
+
+Contrary to the team's expectations, the study found no correlation between population density or land use and high levels of microplastics.
+
+"Based on other findings in the literature, what we thought would be important turned out not to be driving forces in microplastic variation across sites, notably the percentage of microplastics related to developed area and population density," said Lisa Emili, associate professor of physical geography and environmental studies at Penn State Altoona and a co-author on the paper.
+
+The researchers also said they were surprised to discover that while microplastic accumulation increased each decade through 2010, it decreased from 2010 to 2020.
+
+"Although this is a preliminary finding that requires further study, this decrease could be related to increased recycling efforts," Emili said.
+
+According to the U.S. Environmental Protection Agency, recycling efforts for plastic increased significantly between 1980 and 2010. Although plastic production also increased, the percentage of recycled plastic increased from less than 0.3% in 1980 to nearly 8% in 2010.
+
+Additionally, Raymond Najjar, a professor of oceanography and a co-author on the paper, said that this study could shed light on the "missing plastics" paradox. This paradox challenges researchers' understanding of plastic waste in the ocean because, while estimates suggest that 7,000 to 25,000 kilotons of plastic enter the ocean each year, only about 250 kilotons are believed to be floating on the surface.
+
+"This suggests that estuaries, especially tidal marshes, may trap river-borne plastics before they reach the ocean," said Najjar, who previously published in Frontiers in Marine Science on simulations of filter estuaries. "This could explain why there is far less plastic floating around in the surface ocean compared to how much is expected to be there given the input to the ocean from rivers."
+
+Warner said these findings suggest that there will continue to be increasing amounts of microplastics in both water and sediment as people use more plastic.
+
+"Humans are ingesting plastic when they eat and drink and inhaling it when they breathe, and the long-term impacts are just beginning to be studied," Warner said. "However, we need to figure out how to release less plastic into the environment and how to reduce consumption and exposure."
+
+According to Emili, making a study like this one successful requires an interdisciplinary team.
+
+"This research shows Penn State's broad expertise, bringing together a team from three campuses, five colleges and five disciplines," Emili said. "We brought together complementary skillsets from our fields of chemistry, engineering, hydrology, oceanography and soil science."
+
+This research project was initially funded with an Institute of Energy and the Environment seed grant.
+
+"That funded project really served as an 'incubator' for a continuation and expansion of our work exploring the fate and transport of microplastics in freshwater environments, with a particular focus on coastal locations," Emili said.
+
+Najjar agreed and said he would like to get a more comprehensive assessment of the trapping of river-borne plastics in estuaries.
+
+"We have known for a long time that estuaries heavily process river borne materials, like carbon, sediment and nutrients, and this processing has a big impact on what eventually reaches the ocean," Najjar said. "I think estuaries could be functioning in a similar way for plastics, but we need more than just a modeling study and a single core. We need to consider the likely sources and sinks of plastics for a given system, such as rivers, atmosphere, estuarine sediment and marshes."
+
+Warner added that he hopes to examine how the composition and types of microplastics have changed over time and assess how the associated health risks have evolved.
+
+In addition to Emili, Najjar and Warner, the other Penn State researchers who contributed to the study include, Jutamas Bussarakum, lead author and doctoral student in the Department of Civil and Environmental Engineering; William Burgos, professor in the Department of Civil and Environmental Engineering; Samual Cohen, who graduated with their master's degree in geography earlier this year; Kimberly Van Meter, assistant professor in the Department of Geography; Jon Sweetman, assistant research professor in the Department of Ecosystem Science and Management; Patrick Drohan, professor in the Department of Ecosystem Science and Management; Jill Arriola, assistant research professor in the Department of Meteorology and Atmospheric Science; and Katharina Pankratz, who graduated with their doctorate in civil and environmental engineering earlier this year.
+
+The U.S. National Science Foundation and the Penn State's Commonwealth Campus Center Nodes (C3N) Program and the Institute of Energy and the Environment supported this research.
+
+
+
+Researchers from the University of Virginia have made significant strides in the rapidly advancing field of 3D-printed concrete by developing a more sustainable, printable cementitious composite. This new material, which combines graphene with limestone and calcined clay cement (LC2), offers enhanced strength and durability while significantly reducing carbon emissions, making it a powerful solution for addressing the environmental challenges in 3D printed construction.
+
+"Our goal was to design a printable concrete that performs better and is more eco-friendly," said Osman Ozbulut, a professor at UVA's Department of Civil and Environmental Engineering. "The addition of graphene to LC2 cement offers a unique opportunity to lower carbon emissions while maintaining the strength and flexibility required for 3D printed construction."
+
+The study, which explored the flow properties, mechanical performance and environmental impacts of this material, was led by visiting scholar Tugba Baytak and UVA's Tawfeeq Gdeh, doctoral researchers at Resilient and Advanced Infrastructure Laboratory at University of Virginia. Collaborating with researchers at Virginia Transportation Research Council (VTRC), Baytak and Gdeh applied graphene -- known for its outstanding mechanical properties -- to LC2 cement, significantly improving its performance for 3D printing applications.
+
+"This kind of innovation is essential for the future of construction, and I'm proud to be part of the team driving this forward," said Baytak.
+
+A key aspect of the research was a Life Cycle Assessment (LCA), conducted by Zhangfan Jiang, a postdoctoral researcher the Department of Civil and Environmental Engineering, in collaboration with Lisa Colosi Peterson, an environmental engineering professor at the University of Virginia. The LCA revealed that this graphene-enhanced LC2 concrete could reduce greenhouse gas emissions by approximately 31% compared to traditional printable concrete mixtures.
+
+"Being able to see the full environmental footprint of this new concrete was important," explained Jiang. "It not only exhibits better mechanical performance but also has a lower environmental impact, making 3D concrete construction technology more sustainable compared to traditional 3D printing methods with higher carbon emissions."
+
+"It's rewarding to see science push us toward greener building practices," said Colosi Peterson.
+
+The partnership with VTRC allowed the UVA team to assess the material's potential applications in transportation infrastructure, further showcasing its real-world potential. "The VTRC collaboration was essential in uncovering the fundamental properties of this new concrete," added Ozbulut.
+
+"It's exciting to be part of a project that addresses both the technical demands of modern construction and the urgent need for more eco-friendly materials," said Gdeh.
+
+The research team included Tugba Baytak, a doctoral researcher from Istanbul Technical University and a visiting scholar at University of Virginia, Tawfeeq Gdeh, Zhangfan Jiang, Lisa Colosi, and Osman E. Ozbulut from the University of Virginia, and Gabriel Arce, a research scientist from the Virginia Transportation Research Council.
+
+The article was entitled "Rheological, Mechanical, and Environmental Performance of Printable Graphene-Enhanced Cementitious Composites with Limestone and Calcined Clay" published in the Journal of Building Engineering, 2024.
+
+This research was funded in part by the University of Virginia's 3 Cavaliers Program and The Scientific and Technological Research Council of Turkey (TUBITAK).
+
+
+
+The efficient use of cellulose -- the primary plant scaffold and a major natural building block -- could address many issues associated with petroleum-based polymers across various industries. In the search for more sustainable uses of cellulose, Lithuanian scientists have developed a production method for a nanofibrous cellulose matrix, which has the potential to replace non-renewable industrial even in biomedical applications.
+
+Textile, clothing, toys, and sports equipment made from synthetic petroleum-based materials have a significant negative impact on the environment through their entire life cycle, from production to waste management.
+
+Scientists argue that it is necessary to replace petroleum-based materials with environmentally friendly materials and to demonstrate to consumers that products that have been in use for many years can be replaced while retaining their effectiveness. According to Ingrida Pauliukaitytė, a PhD student at Kaunas University of Technology (KTU) and one of the creators of the new environmentally friendly cellulose nanofibre, the invention is a step towards a more sustainable industry.
+
+A unique production method
+
+Cellulose is the Earth's most abundant and widespread natural polysaccharide, commonly found in plant cell walls, algae or synthesised by certain bacteria. "I chose cellulose as a research object because of its natural origin and favourable properties: its biocompatibility and degradability, variety of chemical strains, and wide range of applications," says the inventor.
+
+The invention was developed using the wet-type electrospinning method, whereby cellulose is dissolved in special solvents -- ionic liquids -- and the solution is then converted into fibres. "This is a method that allows the creation of cellulose matrices with a unique gel-like structure, similar to cellulose fibres naturally synthesised by bacteria," says the PhD student at the KTU Faculty of Chemical Technology (CTF).
+
+This method of creating cellulose has an advantage in the market due to its environmental friendliness. In particular, the dissolution method used is more environmentally friendly due to the use of "green solvents."
+
+Also, the raw material for this production process can be either raw cellulose or cellulose waste. Depending on the purity of the material, the resulting fibre can be used for different products. The recycled cellulose can be used to produce new polymer composite products such as toys, sports equipment, household items. If the raw material is pure plant cellulose, biomedical applications have great potential, where this type of nanofibrous structure has unique biocompatibility properties.
+
+A significant boost for cancer research
+
+"Our invention -- a nanofibrous cellulose matrix -- is like a scaffold, a structural support that helps cells to divide and grow," explains Pauliukaitytė.
+
+The biocompatibility mentioned by KTU scientist Pauliukaitytė is very important in tissue engineering to avoid the living organism's immune response to a material used for cell reproduction other than the one naturally synthesised by the organism.
+
+"In addition, cellulose has very favourable mechanical properties, so that the fibres developed are strong and can withstand the high stresses that arise when cells proliferate. Since cellulose absorbs water, the use of cellulose fibres in wound healing can control the amount of moisture that occurs during the healing process," says Pauliukaitytė.
+
+So far, the applicability of cellulose in tissue engineering has been tested for the reconstruction of cartilage, bone and vascular structures. However, given the biocompatibility, structural and moisture retention properties of cellulose, this polymer has great potential for use in regenerative medicine, which aims to stimulate the body's natural recovery mechanisms and restore lost biological functions, and for organ growth.
+
+In addition, the cellulose nanofibres developed are not only biocompatible and environmentally friendly, but also have the potential to form three-dimensional (3D) cell models that better reflect cell behaviour in the natural environment. "This is a significant advantage, especially in tissue engineering and cancer research, as 3D cultures allow for more precise experiments and a better understanding of cell growth and interactions," says Pauliukaitytė.
+
+
+
+Medicare could save up to 74% of the money lost from discarded Alzheimer's drug lecanemab by the simple introduction of a new vial size that would reduce the amount of unused medication that is thrown away, new research suggests.
+
+The researchers on the study, to be published October 14 in the peer-reviewed JAMA Internal Medicine, estimate that Medicare could waste up to $336 million annually due to discarded medication. Administered dosages are based on each patient's body weight. But because the drug is currently available only in single-use 500 mg and 200 mg vials, substantial amounts of the expensive medication are discarded when the dose a patient is prescribed is lower than the amount contained in the vials.
+
+Clinical trials have found that the drug, intended for people with mild cognitive impairment or mild dementia, has marginal net clinical benefit. Previous UCLA-led research has suggested that the cost of the drug, plus ancillary costs such as treatment for brain swelling linked to the medication, could cost Medicare $2 billion to $5 billion per year.
+
+Healthcare costs continue to increase each year, placing significant strain on the Medicare budget, said lead author Frank Zhou, a fourth-year medical student at the David Geffen School of Medicine at UCLA.
+
+"It is imperative to reduce spending on services that do not improve the health of patients, and this is a prime example of such, given that Medicare is paying for a drug only to literally throw part of it away," he said. "There are significant opportunities for savings even with this single drug, implying that even greater savings could be achieved if our proposed solutions were applied to other infused therapies."
+
+Medicare spent $33 billion on Part B infusion drugs in 2021, said Dr. John Mafi, associate professor-in-residence of medicine in the division of general internal medicine and health services research at the David Geffen School of Medicine at UCLA.
+
+"So there is substantial opportunity for cost savings by reducing waste from all infusion drugs said Mafi, the study's senior author.
+
+Under the Infrastructure Investment and Jobs Act of 2021, manufacturers are required to reimburse Medicare for waste exceeding 10%, Zhou said. "However, we estimate lecanemab waste to be only 5.8%, rendering current policy ineffective, and sounding the bell that further policy changes are likely needed," he said.
+
+Using the nationally representative 2020 Health and Retirement Study, the researchers analyzed data from participants aged 65 years and older, had Medicare Part B coverage, and were eligible for lecanemab. They calculated each person's required weight-based dose, subtracted that amount from each patient's dispensed dose to determine how much would be discarded, and then multiplied that amount by the number of doses per year to estimate the annual wasted amount.
+
+For instance, a 65 kg patient would be prescribed a 650 mg dose. Given that this patient would be dispensed one 500 mg vial and a 200 mg vial, 50 mg would ultimately be tossed out.
+
+Assuming conservative lecanemab uptake rates of 1.1-2.9% for an estimated 82,000 to 208,000 of eligible people, current vial sizes would lead to an estimated $133 million to $336 million worth of medication thrown away every year. This means that the discarded lecanemab from 16 patients could provide enough medication for an additional person. The researchers suggest that this waste could be reduced by 74% by adding a third, 75 mg vial without significantly harming quality of care or risking a drug price increase that exceeds inflation.
+
+The cohort the researchers studied may not have identical weights to actual lecanemab users, expected uptake rates are not precise, manufacturing and regulatory costs of changing vial sizes were not incorporated into the findings, and the amount of waste may have been underestimated due to the algorithm used, all of which limit the findings, the researchers note.
+
+Study co-authors are Chi-Hong Tseng, Mei Leng, Dr. Benjo Delarmente, Dr. Catherine Sarkisian, and Dr. John Mafi of UCLA, and Cheryl Damberg of RAND Corporation.
+
+The study was funded by the National Institute on Aging (R01AG070017-01).
+
+
+
+Alzheimer's disease may damage the brain in two distinct phases, based on new research funded by the National Institutes of Health (NIH) using sophisticated brain mapping tools. According to researchers who discovered this new view, the first, early phase happens slowly and silently -- before people experience memory problems -- harming just a few vulnerable cell types. In contrast, the second, late phase causes damage that is more widely destructive and coincides with the appearance of symptoms and the rapid accumulation of plaques, tangles, and other Alzheimer's hallmarks.
+
+"One of the challenges to diagnosing and treating Alzheimer's is that much of the damage to the brain happens well before symptoms occur. The ability to detect these early changes means that, for the first time, we can see what is happening to a person's brain during the earliest periods of the disease," said Richard J. Hodes, M.D., director, NIH National Institute on Aging. "The results fundamentally alter scientists' understanding of how Alzheimer's harms the brain and will guide the development of new treatments for this devastating disorder."
+
+Scientists analyzed the brains of 84 people, and the results, published in Nature Neuroscience, suggest that damage to one type of cell, called an inhibitory neuron, during the early phase may trigger the neural circuit problems that underlie the disease. Additionally, the study confirmed previous findings about how Alzheimer's damages the brain and identified many new changes that may happen during the disease.
+
+Specifically, the scientists used advanced genetic analysis tools to study the cells of the middle temporal gyrus, a part of the brain that controls language, memory and vision. The gyrus has been shown to be vulnerable to many of the changes traditionally seen during Alzheimer's. It is also a part of the brain that researchers have thoroughly mapped for control donors. By comparing control donor data with that from people who had Alzheimer's, the scientists created a genetic and cellular timeline of what happens throughout the disease.
+
+Traditionally, studies have suggested that the damage caused by Alzheimer's happens in several stages characterized by increasing levels of cell death, inflammation and the accumulation of proteins in the form of plaques and tangles. In contrast, this study suggests that the disease changes the brain in two "epochs" -- or phases -- with many of the traditionally studied changes happening rapidly during the second phase. This coincides with the appearance of memory problems and other symptoms.
+
+The results also suggest that the earliest changes happen gradually and "quietly" in the first phase before any symptoms appear. These changes include slow accumulation of plaques, activation of the brain's immune system, damage to the cellular insulation that helps neurons send signals and the death of cells called somatostatin (SST) inhibitory neurons.
+
+The last finding was surprising to the researchers. Traditionally, scientists have thought that Alzheimer's primarily damages excitatory neurons, which send activating neural signals to other cells. Inhibitory neurons send calming signals to other cells. The paper's authors hypothesized how loss of SST inhibitory neurons might trigger the changes to the brain's neural circuitry that underlie the disease.
+
+Recently, a separate NIH-funded brain mapping study by researchers at MIT found that a gene called REELIN may be associated with the vulnerability of some neurons to Alzheimer's. It also showed that star-shaped brain cells called astrocytes may provide resilience to or resist the harm caused by the disease.
+
+Researchers analyzed brains that are part of the Seattle Alzheimer's Disease Brain Cell Atlas (SEA-AD), which is designed to create a highly detailed map of the brain damage that occurs during the disease. The project was led by Mariano I. Gabitto, Ph.D., and Kyle J. Travaglini, Ph.D., from the Allen Institute, Seattle. The scientists used tools -- developed as part of the NIH's Brain Research Through Advancing Innovative Neurotechnologies® (BRAIN) Initiative -- Cell Census Network (BICCN) -- to study more than 3.4 million brain cells from donors who died at various stages of Alzheimer's disease. Tissue samples were obtained from the Adult Changes in Thought study and the University of Washington Alzheimer's Disease Research Center.
+
+"This research demonstrates how powerful new technologies provided by the NIH's BRAIN Initiative are changing the way we understand diseases like Alzheimer's. With these tools, scientists were able to detect the earliest cellular changes to the brain to create a more complete picture of what happens over the entire course of the disease," said John Ngai, Ph.D., director of The BRAIN Initiative®. "The new knowledge provided by this study may help scientists and drug developers around the world develop diagnostics and treatments targeted to specific stages of Alzheimer's and other dementias."
+
+This study was funded by NIH grants: U19AG060909, P30AG066509, U19AG066567, U01AG006781. Additional funding was provided by the Nancy and Buster Alvord Endowment. The Rush University Alzheimer's Disease Center, Chicago, Il, shared donor metadata from the Religious Orders Memory/Memory and Aging Project.
+
+Researchers can obtain data from the SEA-AD study by going to the study's website: https://portal.brain-map.org/explore/seattle-alzheimers-disease
+
+
+
+Weill Cornell Medicine investigators have found that two genetic variants that confer high risk of Alzheimer's disease (AD) together trigger a harmful inflammatory response in the brain's immune cells, particularly in females, in a preclinical model.
+
+The findings, published Sept. 30 in Neuron, emphasize the importance of considering sex differences in Alzheimer's research -- a step that could ultimately lead to more precise and effective treatments.
+
+AD affects millions of people worldwide, with women disproportionately impacted -- nearly twice as many females develop the disease compared with males. To advance therapeutic approaches, investigators are trying to determine the basis for these differences in vulnerability. Previous studies have shown that a gene variant called APOE4 increases AD risk more in women compared with men. The current study zeroed in on cellular activities that go awry when APOE4 and a variant of the TREM2 gene, which also raises AD risk, are present together in females. Because the proteins encoded by these genes have a variety of functions in cells, it has been unclear how the particular variants contribute to a vulnerability to the disease.
+
+"Although these are two of the strongest risk factors for AD, little is known about how they enhance disease risk and they have not been often studied together," said senior author Dr. Li Gan, director of the Helen and Robert Appel Alzheimer's Disease Research Institute and the Burton P. and Judith B. Resnick Distinguished Professor in Neurodegenerative Diseases in the Feil Family Brain and Mind Research Institute at Weill Cornell Medicine. "Our goal was to combine these risk factors to highlight what pathways are altered when the risk of disease is strongest."
+
+Dr. Gan and her team, including lead author Dr. Gillian Carling, a graduate student in the Weill Cornell Medicine Graduate School of Medical Sciences at the time of the study, established mouse models for AD carrying human versions of APOE4 and TREM2 R47H, a rare variant that increases AD risk 2-4.5-fold. The mice also carried a mutation that leads to the development of clumps of tau protein -- abundant in AD brains and closely associated with cognitive decline in patients. The team examined the mice at 9-10 months of age, roughly equivalent to middle age in humans, to assess how these genetic variants impacted brain health.
+
+They found that female, but not male, mice with both APOE4 and TREM2 R47H exhibited significant damage to the brain region that plays an important role in thinking and memory. This damage included more severe tau protein clumps compared with those mice without these gene combinations.
+
+The researchers attributed the damage in these female brains to the brain's immune cells, called microglia. Normally, microglia protect the brain, but in this case, they became "senescent," referring to aged cells that lost their ability to function properly. Instead of cleaning up damaged cells and protein clumps, these aged microglia linger around and release inflammatory chemicals through a pathway known as cGAS-STING. Notably, the study found that these harmful effects were more pronounced in female mice, a finding that aligns with reports that APOE4 poses a stronger risk for women than men.
+
+"Our research showed that when the two Alzheimer's risk factors are combined in females with tau aggregates, the cGAS-STING pathway becomes highly activated," Dr. Carling said. Suppressing this deleterious pathway lowered harmful inflammatory factors and rescued the aging phenotype in microglia.
+
+The study underscores the need to consider sex differences in Alzheimer's research and treatment, the researchers say, as the disease may progress differently in men and women and therefore may require tailored approaches, commented Dr. Gan.
+
+By identifying the role of immune pathways like cGAS-STING in the progression of Alzheimer's, particularly in individuals with high-risk genetic variants, the researchers hope to open the door to new strategies for treatment -- and potentially prevention.
+
